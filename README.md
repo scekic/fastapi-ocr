@@ -52,3 +52,6 @@ http://localhost:8000/docs
 - Select the `/ocr` POST endpoint.
 - Upload an image file that contains text.
 - Execute the request to see the extracted text.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/scekic/fastapi-ocr/blob/main/LICENSE) file for details.
